@@ -203,10 +203,9 @@ Git
 
 Backend Setup
 bash# Clone the repository
-git clone https://github.com/shaarvitripathi4748/CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology.git
+git clone https://github.com/shaarvitripathi2-dotcom/LifeLine-App.git
 
-cd CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology
-
+cd LifeLine-App
 # Create virtual environment
 
 python -m venv venv
