@@ -297,7 +297,9 @@ Communicate with emergency responders
 Mission: Making healthcare assistance accessible to everyone, everywhere
 
 License:
-This repository and its contents, including the idea and design of LifeLine, were created for the purpose of submission to the Samsung PRISM GenAI Hackathon 2025. All intellectual property rights are retained by the authors, Team CHOCOBAR.
+This project is open-sourced under the [MIT License](LICENSE).
+
+Note: This project was originally created for the Samsung PRISM GenAI Hackathon 2025. While initially submitted under a team entry, it has since been solely developed, maintained, and presented by me as a personal project.
 
 <div align="center">
   <b>LifeLine - Because every second counts, and every life matters.</b>
