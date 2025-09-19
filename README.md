@@ -297,9 +297,9 @@ Communicate with emergency responders
 Mission: Making healthcare assistance accessible to everyone, everywhere
 
 License:
-This project is open-sourced under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Note: This project was originally created for the Samsung PRISM GenAI Hackathon 2025. While initially submitted under a team entry, it has since been solely developed, maintained, and presented by me as a personal project.
+Note: This project was originally conceived and developed for the Samsung PRISM GenAI Hackathon 2025.  While initially submitted under a team entry, it is now maintained and presented as an individual project by Shaarvi Tripathi, who was the sole contributor to its design and implementation.
 
 <div align="center">
   <b>LifeLine - Because every second counts, and every life matters.</b>
